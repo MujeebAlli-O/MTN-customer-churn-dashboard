@@ -4,5 +4,5 @@ This dashboard is a concise, visual summary of subscriber attrition. It provides
 Dataset used
 <a href="https://github.com/MujeebAlli-O/MTN-customer-churn-dashboard/blob/main/mtn_customer_churn.csv">Dataset</a>
 
-Dashbpoard iteraction
+Dashboard iteraction
 <a href= "https://github.com/MujeebAlli-O/MTN-customer-churn-dashboard/blob/main/MTN%20customr%20churn%20dashboard.pbix">Dashboard</a>
